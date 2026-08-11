@@ -75,6 +75,13 @@ corresponds to
 
 ---
 
+
+# Authors
+
+Ayşe Hafsa Doğan
+Yağız Efe Korkmaz
+Assoc. Prof. Betül Uralcan Kılavuz
+
 # Purpose
 
 The datasets in this repository were used to
@@ -83,4 +90,6 @@ The datasets in this repository were used to
 - train Long Short-Term Memory (LSTM) forecasting models,
 - generate recursive charge predictions,
 - estimate transmission-line-model (TLM) parameters from the predicted charging profiles.
+
+
 
