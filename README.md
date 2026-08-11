@@ -84,10 +84,3 @@ The datasets in this repository were used to
 - generate recursive charge predictions,
 - estimate transmission-line-model (TLM) parameters from the predicted charging profiles.
 
----
-
-# Citation
-
-If you use this dataset, please cite the associated master's thesis.
-
-> Merve Kaftan, *Data-Driven Forecasting of Supercapacitor Charging Profiles with LSTM Approach*, Master's Thesis, Boğaziçi University, 2026.
