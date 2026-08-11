@@ -1,5 +1,13 @@
 # Molecular-Dynamics Electrode-Charge Dataset
 
+
+# Authors
+
+Ayşe Hafsa Doğan
+Yağız Efe Korkmaz
+Assoc. Prof. Betül Uralcan Kılavuz
+
+
 ## Overview
 
 This repository contains the molecular-dynamics electrode-charge time-series data used in the master's thesis
@@ -74,13 +82,6 @@ corresponds to
 - applied potential = 2 V
 
 ---
-
-
-# Authors
-
-Ayşe Hafsa Doğan
-Yağız Efe Korkmaz
-Assoc. Prof. Betül Uralcan Kılavuz
 
 # Purpose
 
