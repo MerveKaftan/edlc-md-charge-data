@@ -12,6 +12,10 @@ The dataset consists of the electrode-charge trajectories obtained from molecula
 
 These trajectories were used for data preprocessing, LSTM training, recursive forecasting, and transmission-line-model (TLM) analysis presented in the thesis.
 
+
+
+# Authors
+
 The dataset obtained by Ayşe Hafsa Doğan, Yağız Efe Korkmaz, Assoc. Prof. Betül Uralcan Kılavuz.
 
 
