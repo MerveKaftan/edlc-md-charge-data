@@ -1,12 +1,6 @@
 # Molecular-Dynamics Electrode-Charge Dataset
 
 
-# Authors
-
-Ayşe Hafsa Doğan
-Yağız Efe Korkmaz
-Assoc. Prof. Betül Uralcan Kılavuz
-
 
 ## Overview
 
@@ -17,6 +11,9 @@ This repository contains the molecular-dynamics electrode-charge time-series dat
 The dataset consists of the electrode-charge trajectories obtained from molecular-dynamics simulations of electrochemical double-layer capacitors (EDLCs) with different pore sizes, solvent dipole moments, and applied potentials.
 
 These trajectories were used for data preprocessing, LSTM training, recursive forecasting, and transmission-line-model (TLM) analysis presented in the thesis.
+
+The dataset obtained by Ayşe Hafsa Doğan, Yağız Efe Korkmaz, Assoc. Prof. Betül Uralcan Kılavuz.
+
 
 ---
 
